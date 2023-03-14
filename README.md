@@ -2,7 +2,7 @@
 
 Sou aluno de Engenharia da Computação na Universidade Federal da Paraíba e estudante de Desenvolvimento Web Fullstack pela Driven. Estou sempre em busca de expandir meus conhecimentos das tecnologias e atualmente procuro me profissionalizar no desenvolvimento front-end.
 
-[![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=01AndersonDuarte)](https://github.com/01AndersonDuarte/github-readme-stats)
+[![Anderson GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=01AndersonDuarte)](https://github.com/01AndersonDuarte/github-readme-stats)
 
 ## Tecnologias que uso frequentemente:
 

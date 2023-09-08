@@ -22,10 +22,13 @@ Sou aluno de Engenharia da Computação na Universidade Federal da Paraíba e es
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </div><br>
 
-## Tecnologias que já utilizei:
+## Já utilizei:
 
 <div style="display: inline_block"><br>
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img aling="center" alt="HTML5" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+    <img aling="center" alt="HTML5" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
+    <img aling="center" alt="HTML5" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </div><br>
 

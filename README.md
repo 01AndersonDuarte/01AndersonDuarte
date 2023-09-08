@@ -19,9 +19,7 @@ Sou aluno de Engenharia da Computação na Universidade Federal da Paraíba e es
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-
-
-    
+    <img aling="center" alt="HTML5" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </div><br>
 
 ## Tecnologias que já utilizei:

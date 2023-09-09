@@ -4,9 +4,8 @@ Sou aluno de Engenharia da Computação na Universidade Federal da Paraíba e es
 
 ## Status
 
-<div style="display: inline_block"><br>
 [![Anderson GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=01AndersonDuarte)](https://github.com/01AndersonDuarte/github-readme-stats)
-</div><br>
+
 
 ## Tecnologias que uso frequentemente:
 

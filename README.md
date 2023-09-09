@@ -1,10 +1,13 @@
-### Olá, me chamo Anderson Duarte!
+<h1 align="center">Olá, me chamo Anderson Duarte!</h1>
 
 Sou aluno de Engenharia da Computação na Universidade Federal da Paraíba e estudante de Desenvolvimento Web Fullstack pela Driven. Estou sempre em busca de expandir meus conhecimentos das tecnologias e atualmente procuro me profissionalizar no desenvolvimento fullstack.
 
-## Status
+## Stats
 
-[![Anderson GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=01AndersonDuarte)](https://github.com/01AndersonDuarte/github-readme-stats)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=01AndersonDuarte&show_icons=true" alt="Anderson Duarte Github Stats"></img>
+    <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01AndersonDuarte&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+</div>
 
 
 ## Tecnologias que uso frequentemente:
@@ -34,4 +37,3 @@ Sou aluno de Engenharia da Computação na Universidade Federal da Paraíba e es
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </div><br>
-

@@ -4,10 +4,23 @@ Sou aluno de Engenharia da Computação na Universidade Federal da Paraíba e es
 
 ## Stats
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=01AndersonDuarte&show_icons=true" alt="Anderson Duarte Github Stats"></img>
-    <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01AndersonDuarte&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-</div>
+<details>
+  <summary aling="center">GitHub Stats</summary>
+  <pre>
+    <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=01AndersonDuarte&show_icons=true" alt="Anderson Duarte Github Stats"></img>
+    </div>
+  </pre>
+</details>
+
+<details>
+  <summary>Linguagens mais usadas</summary>
+  <pre>
+    <div align="center">
+        <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01AndersonDuarte&layout=compact&hide_title=1&card_width=300"                 alt="Top language used in my repos" />
+    </div>
+  </pre>
+</details>
 
 
 ## Tecnologias que uso frequentemente:

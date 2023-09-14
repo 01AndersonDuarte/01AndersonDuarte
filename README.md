@@ -1,6 +1,6 @@
 <h1 align="center">Olá, me chamo Anderson Duarte!</h1>
 
-Sou aluno de Engenharia da Computação na Universidade Federal da Paraíba e Desenvolvedor Web Fullstack. Estou sempre em busca de expandir meus conhecimentos das tecnologias e atualmente procuro me profissionalizar no desenvolvimento fullstack.
+Sou Desenvolvedor Web Fullstack, tenho experiência prática de diversos projetos e estou sempre buscando expandir meus conhecimentos tecnológicos, gosto muito de ler enquanto recarrego minhas energias com bastante café, mas também gosto de criar minhas próprias histórias e por isso já escrevi três livros de ficção, um deles publicado. Também sou estudante de Engenharia da Computação na UFPB e sou formado em um curso Técnico de Informática pelo IFCE. 
 
 ## Stats
 

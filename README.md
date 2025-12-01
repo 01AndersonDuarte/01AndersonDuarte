@@ -1,6 +1,15 @@
 <h1 align="center">Olá, me chamo Anderson Duarte!</h1>
 
-Sou Desenvolvedor Web Fullstack, tenho experiência prática de diversos projetos e estou sempre buscando expandir meus conhecimentos tecnológicos, gosto muito de ler enquanto recarrego minhas energias com bastante café, mas também gosto de criar minhas próprias histórias e por isso já escrevi três livros de ficção, um deles publicado. Também sou estudante de Engenharia da Computação na UFPB e sou formado em um curso Técnico de Informática pelo IFCE. 
+Olá! 💻 Sou um Desenvolvedor Full Stack com mais de 2 anos de experiência profissional, focado em criar soluções eficientes, escaláveis e que realmente fazem diferença. Gosto de transformar problemas complexos em sistemas simples, claros e fáceis de evoluir. Já trabalhei com Vue.js, Node.js, Python/Django REST, TypeScript, PostgreSQL e arquitetura Serverless — sempre priorizando código limpo, performance e boas práticas.
+
+Sou estudante de Engenharia da Computação, formado como Técnico em Informática pelo IFCE e concluí um bootcamp intensivo de desenvolvimento web full stack de 10 meses, que reforçou minha base de backend, frontend e lógica aplicada ao mundo real.
+
+Recentemente, participei do desenvolvimento de uma API de pagamentos baseada em autenticação biométrica, construída em Python e executada em ambiente totalmente Serverless. Nela, atuei na criação de fluxos seguros e otimizados para cadastro e validação de usuários, garantindo confiabilidade e alto desempenho. Esse projeto me deu uma visão profunda de Cloud, segurança e eficiência em funções AWS Lambda.
+
+Gosto de aprender rápido, resolver problemas difíceis e construir produtos com impacto.
+Se quiser trocar ideias ou saber mais sobre meus projetos, estou à disposição:
+
+📩 andersonduarte997@gmail.com
 
 ## Stats
 

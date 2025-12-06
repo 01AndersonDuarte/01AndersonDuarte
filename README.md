@@ -4,7 +4,7 @@ Olá! 💻 Sou um Desenvolvedor Full Stack com mais de 2 anos de experiência pr
 
 Sou estudante de Engenharia da Computação, formado como Técnico em Informática pelo IFCE e concluí um curso intensivo de desenvolvimento web full stack de 10 meses, que reforçou minha base de backend, frontend e lógica aplicada ao mundo real.
 
-Recentemente, participei do desenvolvimento de uma API de pagamentos baseada em autenticação biométrica, construída em Python e executada em ambiente totalmente Serverless. Nela, atuei na criação de fluxos seguros e otimizados para cadastro e validação de usuários, garantindo confiabilidade e alto desempenho. Esse projeto me deu uma visão profunda de Cloud, segurança e eficiência em funções AWS Lambda.
+Recentemente, participei do desenvolvimento de uma API para confirmação de pagamentos baseada em autenticação biométrica, construída em Python e executada em ambiente totalmente Serverless. Nela, atuei na criação de fluxos seguros e otimizados para cadastro e validação de usuários, garantindo confiabilidade e alto desempenho. Esse projeto me deu uma visão profunda de Cloud, segurança e eficiência em funções AWS Lambda.
 
 Gosto de aprender rápido, resolver problemas difíceis e construir produtos com impacto.
 Se quiser trocar ideias ou saber mais sobre meus projetos, estou à disposição:
